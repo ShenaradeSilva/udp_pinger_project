@@ -40,11 +40,11 @@ The UDP Pinger project demonstrates how UDP works as a connectionless transport 
 
 4. Run the server first:
    ```bash
-     python udp_pinger_server.py
+     python UDP_Pinger_Server.py
 
 6. In another terminal, run the client:
    ```bash
-     python udp_pinger_client.py
+     python UDP_Pinger_Client.py
 
 ---
 
