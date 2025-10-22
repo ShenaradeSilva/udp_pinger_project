@@ -35,12 +35,15 @@ The UDP Pinger project demonstrates how UDP works as a connectionless transport 
      git clone https://github.com/yourusername/UDP-Pinger.git
 
 2. Navigate to the project directory:
+   ```bash
      cd <directory_name>
 
-3. Run the server first:
+4. Run the server first:
+   ```bash
      python udp_pinger_server.py
 
-4. In another terminal, run the client:
+6. In another terminal, run the client:
+   ```bash
      python udp_pinger_client.py
 
 ---
